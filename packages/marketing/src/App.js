@@ -6,7 +6,7 @@ import Landing from './components/Landing';
 import Pricing from './components/Pricing';
 
 const generatedClassNames = createGenerateClassName({
-    prodctionPrefix: 'ma'
+    productionPrefix: 'ma'
 })
 
 export default () => {
